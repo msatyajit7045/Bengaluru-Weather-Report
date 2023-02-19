@@ -7,12 +7,21 @@ Overall, the project successfully developed a prediction model that can forecast
 
 The Dataset contains the following columns.
 ● time
+
 ● weathercode
+
 ● temperature_2m_mean (°C)
+
 ● apparent_temperature_mean (°C)
+
 ● shortwave_radiation_sum (MJ/m²)
+
 ● precipitation_sum (mm)
+
 ● rain_sum (mm)
+
 ● precipitation_hours (h)
+
 ● windspeed_10m_max (km/h)
+
 ● windgusts_10m_max (km/h)
